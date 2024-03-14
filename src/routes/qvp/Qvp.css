@@ -1,0 +1,18 @@
+.qvp {
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    width: 550px;
+    height: 300px;
+}
+
+.jadval {
+    height: 900px;
+    width: 1000px;
+    background-color: dodgerblue;
+    text-align: center;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}

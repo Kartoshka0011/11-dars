@@ -1,0 +1,9 @@
+.leader{
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    width: 550px;
+    height: 300px;
+    background-color: rgb(255, 158, 30);
+}

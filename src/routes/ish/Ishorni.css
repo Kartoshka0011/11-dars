@@ -1,0 +1,20 @@
+.ish{
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    width: 550px;
+    height: 300px;
+}
+
+.ish_m{
+    display: flex;
+    flex-direction: column;
+    gap: 50px;
+}
+
+.ihs_m{
+    width: 1000px;
+    height: 400px;
+    background-color: dodgerblue;
+}

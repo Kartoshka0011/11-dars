@@ -1,0 +1,19 @@
+.bulimlar{
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    width: 550px;
+    height: 300px;
+}
+
+.blm{
+    display: flex;
+    gap: 100px;
+}
+
+.blm1{
+    background-color: dodgerblue;
+    width: 200px;
+    height: 250px;
+}
